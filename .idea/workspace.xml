@@ -11,9 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fd347cc-4c46-47d4-b61f-a0a9c8156e7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NodeExample/ch02_02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeExample/calc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeExample/ch02_test4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeExample/ch02_test5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NodeExample/test01.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeExample/test01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeExample/ch02_02.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeExample/ch02_test2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeExample/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/NodeExample/ch02_test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NodeExample/test01.js" beforeDir="false" afterPath="$PROJECT_DIR$/NodeExample/ch02_test1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +52,24 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ch02_02.js">
-    <configuration name="ch02_02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NodeExample/ch02_02.js" working-dir="$PROJECT_DIR$/NodeExample">
+  <component name="RunManager" selected="Node.js.ch02_test5.js">
+    <configuration name="ch02_test1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NodeExample/ch02_test1.js" working-dir="$PROJECT_DIR$/NodeExample">
       <method v="2" />
     </configuration>
-    <configuration name="test01.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="test01.js" working-dir="$PROJECT_DIR$/NodeExample">
+    <configuration name="ch02_test2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NodeExample/ch02_test2.js" working-dir="$PROJECT_DIR$/NodeExample">
+      <method v="2" />
+    </configuration>
+    <configuration name="ch02_test4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NodeExample/ch02_test4.js" working-dir="$PROJECT_DIR$/NodeExample">
+      <method v="2" />
+    </configuration>
+    <configuration name="ch02_test5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NodeExample/ch02_test5.js" working-dir="$PROJECT_DIR$/NodeExample">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ch02_02.js" />
+        <item itemvalue="Node.js.ch02_test5.js" />
+        <item itemvalue="Node.js.ch02_test4.js" />
+        <item itemvalue="Node.js.ch02_test2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -69,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607229144362</updated>
-      <workItem from="1607229146920" duration="1619000" />
+      <workItem from="1607229146920" duration="2361000" />
     </task>
     <servers />
   </component>
@@ -92,22 +104,22 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1607229251007" />
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1607231622201">
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1607233513139">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1607231622201" />
-    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1607231622200">
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1607233513139" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1607233513137">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1607231622200" />
-    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1607231622199">
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1607233513137" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1607233513136">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1607231622199" />
-    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1607231622201">
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1607233513136" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1607233513138">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1607231622201" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1607233513138" />
     <state width="1259" height="264" key="GridCell.Tab.1.bottom" timestamp="1607229940664">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
