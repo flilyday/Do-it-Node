@@ -11,3 +11,10 @@ console.log('byteLen : ' + byteLen)
 
 var str1 = buffer1.toString('utf8', 0, 7)
 console.log('str1 :' + str1)
+
+// 버퍼 = 데이터 저장 상자, 한 번 선언하고 나면 길이를 조정할 수 없다.
+var buffer2 = Buffer.from('Hello', 'utf8')
+console.log('두번째 버퍼의 길이 : '+Buffer.byteLength(buffer2))
+
+var str2 = buffer2.toString('utf8', 0, Buffer.byteLength(buffer2))
+console.log('str2 : '+ str2)
